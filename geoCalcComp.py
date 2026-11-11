@@ -234,7 +234,7 @@ while choice != 5:
     
     # Choice 5 Exit
     elif choice == 5:
-        print("\nOK, exiting now...")
+        print("\nOK, exiting now. Thank you for using this tool.")
     
     
     # Non-valid inputs
